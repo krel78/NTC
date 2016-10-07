@@ -54,9 +54,9 @@
 	Number of analog input of Arduino/Genuino board
 @param RRef
 	Reference resistance value in Ohms
-@param R25
+@param NTC_R25
 	Characeristic resistance of NTC for 25 Celsius degrees reference temperature 
-@param A1, B1, C1, D1
+@param NTC_A1, NTC_B1, NTC_C1, NTC_D1
 	Parameters of logarythmic expression for temperature calculation
 @par Example
 @code
